@@ -1,0 +1,1 @@
+{"version":3,"sources":["../source/index.js"],"names":[],"mappings":";;;;2BAA4C,gBAAgB;;AAErD,IAAM,IAAI,4BAAe,CAAA;;AACzB,IAAM,KAAK,6BAAgB,CAAA","file":"index.js","sourcesContent":["import { webpage_head, webpage_title } from './webpage head'\n\nexport const head = webpage_head\nexport const title = webpage_title"]}
